@@ -11,7 +11,7 @@ Developed in-house by our team, with zero dependencies on open source or third p
 Components offering implementations of core Internet Communication Protocols such as HTTP, FTP, SMTP, IMAP, LDAP, REST, SOAP, WebSockets, and DNS through simple, easy-to-use, and intuitive APIs.
 
 + [**IPWorks**](https://www.nsoftware.com/ipworks)
-+ [**IPWorks Sample Projects**](/ipworks)
++ [**IPWorks Sample Projects**](/IPWorks)
 
 ## A Robust Suite of Libraries for Secure Communications
 

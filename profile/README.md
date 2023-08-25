@@ -10,24 +10,24 @@ Developed in-house by our team, with zero dependencies on open source or third p
 
 Components offering implementations of core Internet Communication Protocols such as HTTP, FTP, SMTP, IMAP, LDAP, REST, SOAP, WebSockets, and DNS through simple, easy-to-use, and intuitive APIs.
 
-[**IPWorks**](https://www.nsoftware.com/ipworks)
-[**IPWorks Sample Projects**](./ipworks)
++[**IPWorks**](https://www.nsoftware.com/ipworks)
++[**IPWorks Sample Projects**](../ipworks)
 
 ## A Robust Suite of Libraries for Secure Communications
 
-[**Cloud Storage**](https://www.nsoftware.com/cloudstorage)
-[**Cloud Keys**](https://www.nsoftware.com/cloudkeys)
-[**Cloud Mail**](https://www.nsoftware.com/cloudmail)
-[**Cloud SMS**](https://www.nsoftware.com/cloudsms)
-[**IPWorks Auth**](https://www.nsoftware.com/ipworksauth)
-[**IPWorks SSH**](https://www.nsoftware.com/ipworksssh)
-[**IPWorks Encrypt**](https://www.nsoftware.com/ipworksencrypt)
-[**IPWorks EDI**](https://www.nsoftware.com/ipworksedi)
-[**IPWorks MQ**](https://www.nsoftware.com/ipworksmq)
-[**IPWorks Zip**](https://www.nsoftware.com/ipworkszip)
-[**IPWorks OpenPGP**](https://www.nsoftware.com/ipworkspgp)
-[**IPWorks S/MIME**](https://www.nsoftware.com/ipworkssmime)
-[**SecureBlackbox**](https://www.nsoftware.com/sbb)
++[**Cloud Storage**](https://www.nsoftware.com/cloudstorage)
++[**Cloud Keys**](https://www.nsoftware.com/cloudkeys)
++[**Cloud Mail**](https://www.nsoftware.com/cloudmail)
++[**Cloud SMS**](https://www.nsoftware.com/cloudsms)
++[**IPWorks Auth**](https://www.nsoftware.com/ipworksauth)
++[**IPWorks SSH**](https://www.nsoftware.com/ipworksssh)
++[**IPWorks Encrypt**](https://www.nsoftware.com/ipworksencrypt)
++[**IPWorks EDI**](https://www.nsoftware.com/ipworksedi)
++[**IPWorks MQ**](https://www.nsoftware.com/ipworksmq)
++[**IPWorks Zip**](https://www.nsoftware.com/ipworkszip)
++[**IPWorks OpenPGP**](https://www.nsoftware.com/ipworkspgp)
++[**IPWorks S/MIME**](https://www.nsoftware.com/ipworkssmime)
++[**SecureBlackbox**](https://www.nsoftware.com/sbb)
 
 ## Get in Touch with the Team
 Did you find a bug or design a feature request? We want to [hear your feedback and ideas](https://www.nsoftware.com/support/submit).

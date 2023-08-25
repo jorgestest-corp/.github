@@ -6,28 +6,22 @@ For over 30 years, software developers in nearly every Fortune 500 and Global 20
 
 Developed in-house by our team, with zero dependencies on open source or third party code, our products are the best-selling, most comprehensive set of programmable components for secure communications in the world. They are backed by an unmatched record of accomplishment rooted in providing robust enterprise-class solutions and professional technical support. 
 
-## IPWorks
-
-Components offering implementations of core Internet Communication Protocols such as HTTP, FTP, SMTP, IMAP, LDAP, REST, SOAP, WebSockets, and DNS through simple, easy-to-use, and intuitive APIs.
-
-+ [**IPWorks**](https://www.nsoftware.com/ipworks)
-+ [**IPWorks Sample Projects**](https://github.com/jorgestest-corp/IPWorks)
-
 ## A Robust Suite of Libraries for Secure Communications
 
-+ [**Cloud Storage**](https://www.nsoftware.com/cloudstorage)
-+ [**Cloud Keys**](https://www.nsoftware.com/cloudkeys)
-+ [**Cloud Mail**](https://www.nsoftware.com/cloudmail)
-+ [**Cloud SMS**](https://www.nsoftware.com/cloudsms)
-+ [**IPWorks Auth**](https://www.nsoftware.com/ipworksauth)
-+ [**IPWorks SSH**](https://www.nsoftware.com/ipworksssh)
-+ [**IPWorks Encrypt**](https://www.nsoftware.com/ipworksencrypt)
-+ [**IPWorks EDI**](https://www.nsoftware.com/ipworksedi)
-+ [**IPWorks MQ**](https://www.nsoftware.com/ipworksmq)
-+ [**IPWorks Zip**](https://www.nsoftware.com/ipworkszip)
-+ [**IPWorks OpenPGP**](https://www.nsoftware.com/ipworkspgp)
-+ [**IPWorks S/MIME**](https://www.nsoftware.com/ipworkssmime)
-+ [**SecureBlackbox**](https://www.nsoftware.com/sbb)
++ [**Cloud Storage**](https://www.nsoftware.com/cloudstorage) | [**Sample Projects**](https://github.com/jorgestest-corp/CloudStorage)
++ [**Cloud Keys**](https://www.nsoftware.com/cloudkeys) | [**Sample Projects**](https://github.com/jorgestest-corp/CloudKeys)
++ [**Cloud Mail**](https://www.nsoftware.com/cloudmail) | [**Sample Projects**](https://github.com/jorgestest-corp/CloudMail)
++ [**Cloud SMS**](https://www.nsoftware.com/cloudsms) | [**Sample Projects**](https://github.com/jorgestest-corp/CloudSMS)
++ [**IPWorks**](https://www.nsoftware.com/ipworks) | [**Sample Projects**](https://github.com/jorgestest-corp/IPWorks)
++ [**IPWorks Auth**](https://www.nsoftware.com/ipworksauth) | [**Sample Projects**](https://github.com/jorgestest-corp/IPWorksAuth)
++ [**IPWorks SSH**](https://www.nsoftware.com/ipworksssh) | [**Sample Projects**](https://github.com/jorgestest-corp/IPWorksSSH)
++ [**IPWorks Encrypt**](https://www.nsoftware.com/ipworksencrypt) | [**Sample Projects**](https://github.com/jorgestest-corp/IPWorksEncrypt)
++ [**IPWorks EDI**](https://www.nsoftware.com/ipworksedi) | [**Sample Projects**](https://github.com/jorgestest-corp/IPWorksEDI)
++ [**IPWorks MQ**](https://www.nsoftware.com/ipworksmq) | [**Sample Projects**](https://github.com/jorgestest-corp/IPWorksMQ)
++ [**IPWorks Zip**](https://www.nsoftware.com/ipworkszip) | [**Sample Projects**](https://github.com/jorgestest-corp/IPWorksZip)
++ [**IPWorks OpenPGP**](https://www.nsoftware.com/ipworkspgp) | [**Sample Projects**](https://github.com/jorgestest-corp/IPWorksOpenPGP)
++ [**IPWorks S/MIME**](https://www.nsoftware.com/ipworkssmime) | [**Sample Projects**](https://github.com/jorgestest-corp/IPWorksSMIME)
++ [**SecureBlackbox**](https://www.nsoftware.com/sbb) | [**Sample Projects**](https://github.com/jorgestest-corp/SecureBlackbox)
 
 ## Get in Touch with the Team
 Did you find a bug or design a feature request? We want to [hear your feedback and ideas](https://www.nsoftware.com/support/submit).

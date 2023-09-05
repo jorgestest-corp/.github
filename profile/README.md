@@ -27,11 +27,13 @@ Our libraries provide powerful and easy-to-use implementations of core internet 
 
 ## Designed without any Dependencies or Compromises
 
-Developed in-house by our team, with zero dependencies on open source or third party code, our products are the most comprehensive set of programmable components for secure communications in the world. They are backed by an unmatched record of accomplishment rooted in providing robust enterprise-class solutions and professional technical support. 
+Developed entirely in-house by our team, with zero dependencies on open source or third party code, these libraries are shipped as a single package. . They are backed by an unmatched record of accomplishment rooted in providing robust enterprise-class solutions and professional technical support.
 
-## The leading provider of professional components for Secure Internet Communications.
+## Experience Goes a Long Way
 
-For over 30 years software developers in nearly every Fortune 500 and Global 2000 company worldwide have used /n software products to build powerful connected applications. Our client list includes some of the world's top brands: Microsoft, Sony, Xerox, Cisco, Dell, Motorola, Intel, and many more.
+Problems take time to solve. We've been solving internet communications problems for over 30 years. Instead of taking up your own valuable time, integrate our proven solutions into your own applications.
+
+Software developers in nearly every Fortune 500 and Global 2000 company worldwide have used /n software products to build powerful connected applications. Our client list includes some of the world's top brands: Microsoft, Sony, Xerox, Cisco, Dell, Motorola, Intel, and many more.
 
 ## Get in Touch with the Team
 Did you find a bug or design a feature request? We want to [hear your feedback and ideas](https://www.nsoftware.com/support/submit).

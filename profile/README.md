@@ -4,11 +4,7 @@
 
 /n software produces a suite of software libraries provide powerful and easy-to-use implementations of core internet and security protocols.
 
-[**CloudStorage**](https://www.nsoftware.com/cloudstorage) 
-[**IPWorks**](https://www.nsoftware.com/ipworks)
-[**IPWorksEncrypt**](https://www.nsoftware.com/ipworksencrypt)
-[**IPWorksSSH**](https://www.nsoftware.com/ipworksssh)
-[**SecureBlackbox**](https://www.nsoftware.com/secureblackbox)
+[**CloudStorage**](https://www.nsoftware.com/cloudstorage) • [**IPWorks**](https://www.nsoftware.com/ipworks) • [**IPWorksEncrypt**](https://www.nsoftware.com/ipworksencrypt) • [**IPWorksSSH**](https://www.nsoftware.com/ipworksssh) • [**SecureBlackbox**](https://www.nsoftware.com/secureblackbox)
 
 ## Focused Sample Projects
 

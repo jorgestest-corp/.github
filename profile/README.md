@@ -1,6 +1,6 @@
 [![n software GitHub Readme Banner]()](https://www.nsoftware.com/)
 
-## We're Hiring!
+## We Are Hiring!
 
 We are always looking for self-motivated, talented, and hard-working individuals who want to work in an exciting and fast-paced environment using the latest technology and products. If you fit the job description apply [**here**](https://www.nsoftware.com/company/jobs).
 

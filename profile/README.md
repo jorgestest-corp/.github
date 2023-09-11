@@ -1,4 +1,4 @@
-[![n software GitHub Readme Banner]()](https://www.nsoftware.com/)
+[![n software GitHub Readme Banner](https://ns-us-dev.azurewebsites.net/ui/img/github_logo.png)](https://www.nsoftware.com/)
 
 ## We Are Hiring!
 

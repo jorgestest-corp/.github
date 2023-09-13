@@ -1,8 +1,8 @@
 # IPWorks Component Suite
 
-[IPWorks](https://www.nsoftware.com/ipworks) is a comprehensive framework for Internet development and is the core building block for all /n software products. IPWorks eliminates the complexity of Internet development, providing implementations of core protocols related to security, sending email, transferring files, managing networks, browsing the Web, consuming Web Services, etc. All components have full TLS support.
+[IPWorks](https://www.nsoftware.com/ipworks) is a comprehensive framework for Internet development and the core building block for all our products. [IPWorks](https://www.nsoftware.com/ipworks) eliminates the complexity of Internet development, providing implementations of core protocols related to security, sending email, transferring files, managing networks, browsing the Web, consuming Web Services, etc.
 
-The sample projects included in these repositories offer a concise yet effective demonstration of our components, showcasing their usage in a straightforward manner. While they are not intended to be complete applications, they serve as valuable illustrations of key features. To enhance clarity, error handling and checks are simplified, allowing users to focus on the core functionality. These projects provide a solid foundation for developers to explore and customize, enabling them to construct more elaborate applications while understanding the fundamental concepts and mechanisms at play.
+The sample projects included in these repositories offer a concise yet effective demonstration of our components, showcasing their usage in a straightforward manner. While they are not intended to be complete applications, they serve as valuable illustrations of key features. The projects provide a solid foundation for developers to explore and customize, enabling them to construct more elaborate applications while understanding the fundamental concepts and mechanisms at play.
 
 ## We Are Hiring!
 

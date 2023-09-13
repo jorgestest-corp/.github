@@ -1,4 +1,7 @@
-[![n software GitHub Readme Banner](https://raw.githubusercontent.com/jorgestest-corp/.github/main/assets/github_logo.png)](https://www.nsoftware.com/)
+# IPWorks - Trusted by Enterprise Developers Worldwide for 30+ Years
+_Cross-Platform Components for Secure Internet Communications_
+
+IPWorks is a comprehensive framework for Internet development and is the core building block for most /n software products. IPWorks eliminates the complexity of Internet development, providing programmable, SSL-enabled components that facilitate tasks such as ensuring security, sending email, transferring files, managing networks, browsing the Web, consuming Web Services, etc.
 
 ## We Are Hiring!
 
